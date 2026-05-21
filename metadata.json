@@ -1,0 +1,6 @@
+{
+  "name": "Dehan's Universe",
+  "description": "A highly immersive cinematic universe-themed interactive website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
