@@ -13,7 +13,7 @@ const photoCaptions = [
   "semesta kecil ini isinya tentang kamu.",
   "i hope u always find reasons to stay happy.",
   "you deserve soft things in life.",
-  "aku harap dunia selalu baik sama kamu.",
+  "aku harap dunia selalu baik sama teteh.",
   "even galaxies would lose against your smile.",
   "please stay alive for more matcha days.",
   "you make ordinary moments feel beautiful.",
